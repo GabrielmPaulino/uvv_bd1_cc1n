@@ -32,7 +32,7 @@ A disciplina de Banco de Dados aborda os conceitos fundamentais e as técnicas u
 
 Cada trabalho possui uma pasta dedicada, contendo um arquivo README.md com informações detalhadas sobre o trabalho, juntamente com os arquivos e diretórios relevantes para a atividade em questão.
 
-## Trabalho 1: PSET 1 (Problem Set) - PòstgreSQL via PSQL
+## Trabalho 1: PSET 1 (Problem Set) - PostgreSQL via PSQL
 
 > O PSET, abreviação para Problem Set é uma ferramenta de ensino usada por muitas universidades. A maioria dos cursos de física, matemática, engenharia, química e ciência da computação oferece conjuntos de problemas regularmente. 
 
