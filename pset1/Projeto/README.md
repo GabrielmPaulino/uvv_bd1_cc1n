@@ -5,7 +5,7 @@
 #### 20 de Maio de 2023
 ---
 ## Sobre esse diretório
-### O diretório 'Projeto' contém os arquivos do projeto lógico e físico do banco de dados
+### O diretório 'Projeto' contém os arquivos do projeto lógico do banco de dados
 
 ### Os arquivos listados nesse diretório são os seguintes:
 
