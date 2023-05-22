@@ -67,12 +67,6 @@ DROP SCHEMA IF EXISTS lojas;
 
 CREATE SCHEMA lojas;
 
--------------------------------------------------------------------------------
--- Garantindo todas as permissões do schema lojas ao usuário gabriel_paulino --
--------------------------------------------------------------------------------
-
-ALTER SCHEMA lojas OWNER TO gabriel_paulino;
-
 ----------------------------------------------------------------------------------------------------
 -- Mudando o SEARCH_PATH para que o SCHEMA "lojas" seja o padrão para o usuário "gabriel_paulino" --
 ----------------------------------------------------------------------------------------------------
@@ -103,8 +97,6 @@ CREATE TABLE produtos (
    imagem_ultima_atualizacao DATE
 
 );
-
-ALTER TABLE produtos OWNER TO gabriel_paulino;
 
 -------------------------------------------------
 -- Comentando a tabela produtos e suas Colunas --
@@ -162,8 +154,6 @@ CREATE TABLE lojas (
                 
 );
 
-ALTER TABLE lojas OWNER TO gabriel_paulino;
-
 ----------------------------------------------
 -- Comentando a tabela lojas e suas colunas --
 ----------------------------------------------
@@ -214,8 +204,6 @@ CREATE TABLE estoques (
    produto_id          NUMERIC(38) NOT NULL
   
 );
-
-ALTER TABLE estoques OWNER TO gabriel_paulino;
 
 -------------------------------------------------
 -- Comentando a tabela estoques e suas colunas --
@@ -272,8 +260,6 @@ CREATE TABLE clientes (
                 
 );
 
-ALTER TABLE clientes OWNER TO gabriel_paulino;
-
 -------------------------------------------------
 -- Comentando a tabela clientes e suas colunas --
 -------------------------------------------------
@@ -325,8 +311,6 @@ CREATE TABLE envios (
    cliente_id       NUMERIC(38)  NOT NULL
                
 );
-
-ALTER TABLE envios OWNER TO gabriel_paulino;
 
 -----------------------------------------------
 -- Comentando a tabela envios e suas colunas --
@@ -382,8 +366,6 @@ CREATE TABLE pedidos (
     loja_id    NUMERIC(38) NOT NULL
              
 );
-
-ALTER TABLE pedidos OWNER TO gabriel_paulino;
 
 ------------------------------------------------
 -- Comentando a tabela pedidos e suas colunas --
@@ -445,8 +427,6 @@ CREATE TABLE pedidos_itens (
    envio_id        NUMERIC(38)
                
 );
-
-ALTER TABLE pedidos_itens OWNER TO gabriel_paulino;
 
 ------------------------------------------------------
 -- Comentando a tabela pedidos_itens e suas colunas --
