@@ -12,8 +12,7 @@ A disciplina de Banco de Dados aborda os conceitos fundamentais e as técnicas u
 
 ## Estrutura do Repositório
 
-- uvv_bd1_cc1n (main)   
-  - README.md
+- uvv_bd1_cc1n (main)
   1. pset1
      - Projeto
         - README.md
