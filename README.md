@@ -13,6 +13,7 @@ A disciplina de Banco de Dados aborda os conceitos fundamentais e as técnicas u
 ## Estrutura do Repositório
 
 - uvv_bd1_cc1n (main)
+  - README.md
   1. pset1
      - Projeto
         - README.md
@@ -23,8 +24,7 @@ A disciplina de Banco de Dados aborda os conceitos fundamentais e as técnicas u
         - cc1n_202305536_postgresq1.sql 
         - relatorio1.sql
         - relatorio2.sql
-     - README.md
-
+  
 ### O repositório está organizado da seguinte maneira:
 
 
