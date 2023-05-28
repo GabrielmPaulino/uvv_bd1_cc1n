@@ -10,7 +10,7 @@
 
 --
 -- Esse Banco de Dados foi projetado como parte integrante das avaliações bimestrais da matéria de Banco de Dados I.
--- Se trata de um banco de dados para as "Lojas Uvv", uma loja fictícia utilizada apenas para a didática (veja mais no comment do banco -- de dados).
+-- Se trata de um banco de dados para as "Lojas Uvv", uma loja fictícia utilizada apenas para a didática (veja mais no comment do banco de dados).
 --
 
 ----------------------------------------
