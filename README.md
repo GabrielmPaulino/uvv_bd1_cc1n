@@ -1,5 +1,5 @@
 ---
-# Trabalhos da Universidade - Banco de Dados :U+1F4DA:
+# Trabalhos da Universidade - Banco de Dados 📚
 ### Gabriel Manoeli Paulino                                      
 #### Professor(a): Abrantes Araújo
 #### 15 de Maio de 2023
