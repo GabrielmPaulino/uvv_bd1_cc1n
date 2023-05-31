@@ -9,7 +9,7 @@
 
 ### Os arquivos listados nesse diretório são os seguintes:
 
-- [cc1n_202305536_postgresql.sql](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/blob/main/pset1/Scripts/cc1n_202305536_postgresql.sql) (Script Global)
+- [cc1n_202305536_postgresql.sql](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/blob/main/pset1/Scripts%20PostgreSQL/cc1n_202305536_postgresql.sql) - Script Global
 - [Relatório1](...) (Relatório...)
 
 #### O SGBD utilizado foi o PostgreSQL (O SGBD Open Source mais completo de todos). O aplicativo cliente utilizado foi o PSQL (Aplicativo de linha de comando para manipulação do BD)
