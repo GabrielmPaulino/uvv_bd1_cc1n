@@ -9,7 +9,7 @@
 
 ### Os arquivos listados nesse diretório são os seguintes:
 
-- [cc1n_202305536_mariadb.sql](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/tree/main/pset1/Scripts%20MariaDB) (Script Global)
+- [cc1n_202305536_mariadb.sql](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/blob/main/pset1/Scripts%20MariaDB/cc1n_202305536_mariadb.sql) - Script Global
 - [Relatório1](...) (Relatório...)
 
 #### O SGBD utilizado para esse script foi o MariaDB. O aplicativo cliente utilizado foi o mysql (Aplicativo de linha de comando para manipulação do BD).
