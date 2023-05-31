@@ -37,7 +37,6 @@ Cada trabalho possui uma pasta dedicada, contendo um arquivo README.md com infor
 
 Esse primeiro PSET tem como objetivo a criação de um modelo conceitual de um Banco de Dados para uma loja, chamado "Lojas UVV" utilizando o SGBD PostgreSQL e o Aplicativo cliente de linha de comando PSQL. O primeiro passo foi a criação do projeto onde foi utilizado o programa SQL Power Architect para a criação das tabelas, colunas e relacionamentos entre as tabelas. O segundo passo foi a criação de um Script Global em SQL para a criação de todo o Banco de Dados incluindo a criação de um usuário que será o dono do Banco de Dados e posteriormente a criação do BD e todas as tabelas, colunas, relacionamentos, restrições e a inserção dos dados. Também foram feitos diversos relatórios a partir desse Banco de Dados.
 
-#### Leia mais sobre o [PSET 1](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/blob/main/pset1/README.md).
 #### Veja o [projeto do BD](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/blob/main/pset1/Projeto).
 #### Veja os [Scripts](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/tree/main/pset1/Scripts).
 
