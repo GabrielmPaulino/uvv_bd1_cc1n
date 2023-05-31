@@ -19,12 +19,18 @@ A disciplina de Banco de Dados aborda os conceitos fundamentais e as técnicas u
         - README.md
         - PSET1.architect 
         - PSET1.pdf 
-     - Scripts
+     - Scripts MariaDB
         - README.md
-        - cc1n_202305536_postgresq1.sql 
+        - cc1n_202305536_mariadb.sql 
         - relatorio1.sql
         - relatorio2.sql
-  
+        
+    - Scripts PostgreSQL
+       - README.md
+       - cc1n_202305536_postgresql.sql
+       - relatorio1.sql
+       - relatorio2.sql
+       
 ### O repositório está organizado da seguinte maneira:
 
 
