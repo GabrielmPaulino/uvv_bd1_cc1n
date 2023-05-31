@@ -1,13 +1,13 @@
 ---
 # Trabalhos da Universidade - Banco de Dados 📚
-###🙋‍♂‍  Gabriel Manoeli Paulino                                      
-####👨‍🏫 Professor(a): Abrantes Araújo
+###  🙋‍♂‍ Gabriel Manoeli Paulino                                      
+#### 👨‍🏫 Professor(a): Abrantes Araújo
 #### 15 de Maio de 2023
 ---
-## Sobre esse repositório
+## Sobre esse repositório 📂
 ### Bem-vindo(a) ao repositório de trabalhos da disciplina de Banco de Dados! Aqui você encontrará meus projetos e atividades desenvolvidos ao longo do curso, relacionados a matéria de Banco de Dados.
 
-## Sobre a disciplina
+## Sobre a disciplina 
 A disciplina de Banco de Dados aborda os conceitos fundamentais e as técnicas utilizadas no projeto, desenvolvimento e administração de bancos de dados. Neste repositório, você encontrará trabalhos práticos que visam a aplicação desses conceitos teóricos em projetos reais.
 
 ## Estrutura do Repositório
