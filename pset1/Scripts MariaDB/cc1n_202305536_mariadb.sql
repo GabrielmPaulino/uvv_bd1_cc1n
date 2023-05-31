@@ -30,7 +30,7 @@ CREATE DATABASE uvv;
 -- Garantindo privilégios do banco de dados uvv ao usuário 'gabriel_paulino' --
 -------------------------------------------------------------------------------
 
-GRANT all ON uvv.* TO 'gabriel_paulino'@'localhost';
+GRANT ALL ON uvv.* TO 'gabriel_paulino'@'localhost';
 
 FLUSH PRIVILEGES;
 
