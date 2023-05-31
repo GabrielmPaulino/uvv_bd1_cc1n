@@ -37,6 +37,8 @@ A disciplina de Banco de Dados aborda os conceitos fundamentais e as técnicas u
 
 Cada trabalho possui uma pasta dedicada, contendo um arquivo README.md com informações detalhadas sobre o trabalho, juntamente com os arquivos e diretórios relevantes para a atividade em questão.
 
+### Sobre o PSET 
+
 > O PSET, abreviação para Problem Set é uma ferramenta de ensino usada por muitas universidades. A maioria dos cursos de física, matemática, engenharia, química e ciência da computação oferece conjuntos de problemas regularmente. 
 
 ## Trabalho 1: PSET 1 (Problem Set) - PostgreSQL via PSQL
@@ -50,7 +52,7 @@ Esse primeiro PSET tem como objetivo a criação de um modelo conceitual de um B
 
 Também foi implementado o mesmo projeto no MariaDB utilizando o aplicativo cliente de linha de comando mysql.
 
-### Veja o [projeto do BD](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/blob/main/pset1/Projeto).
+#### Veja o [projeto do BD](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/blob/main/pset1/Projeto).
 #### Veja os [Scripts MariaDB](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/tree/main/pset1/Scripts%20MariaDB).
 
 ## Contribuindo
