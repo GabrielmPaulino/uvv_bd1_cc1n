@@ -5,7 +5,7 @@
 #### 20 de Maio de 2023
 ---
 ## Sobre esse diretório
-### O diretório 'Scripts' contém o arquivo do script global utilizado para a criação de um usuário, do banco de dados, da inserção dos dados e outros scripts para criação de vários relatórios obtidos à partir desse BD. 
+### O diretório 'Scripts PostgreSQL' contém o arquivo do script global utilizado para a criação de um usuário, do banco de dados, da inserção dos dados e outros scripts para criação de vários relatórios obtidos à partir desse BD. 
 
 ### Os arquivos listados nesse diretório são os seguintes:
 
