@@ -25,7 +25,7 @@ A disciplina de Banco de Dados aborda os conceitos fundamentais e as técnicas u
         - relatorio1.sql
         - relatorio2.sql
         
-    - Scripts PostgreSQL
+     - Scripts PostgreSQL
        - README.md
        - cc1n_202305536_postgresql.sql
        - relatorio1.sql
