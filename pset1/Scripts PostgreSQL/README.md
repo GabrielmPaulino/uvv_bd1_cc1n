@@ -1,5 +1,5 @@
 ---
-# Scritps do Banco de Dados
+# Scritps do Banco de Dados utilizando o PostgreSQL
 ### Gabriel Manoeli Paulino                                      
 #### Professor(a): Abrantes Araújo
 #### 20 de Maio de 2023
