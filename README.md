@@ -14,7 +14,15 @@ A disciplina de Banco de Dados aborda os conceitos fundamentais e as técnicas u
 
 - uvv_bd1_cc1n (main)
   - README.md
-  1. pset1
+  1. Projeto Integrado
+     - Projeto Conceitual.brM3
+     - Projeto Conceitual.png
+     - Projeto Lógico.architect
+     - Projeto Lógico.pdf
+     - somosfortes.sql
+     - README.md
+  
+  2. pset1
      - Projeto
         - README.md
         - PSET1.architect 
@@ -48,12 +56,18 @@ Esse primeiro PSET tem como objetivo a criação de um modelo conceitual de um B
 #### Veja o [projeto do BD](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/blob/main/pset1/Projeto).
 #### Veja os [Scripts PostgreSQL](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/tree/main/pset1/Scripts%20PostgreSQL).
 
-## Trabalho 2: PSET 1 (Problem Set) - MariaDB via MYSQL
+## Trabalho 1: PSET 1 (Problem Set) - MariaDB via MYSQL
 
 Também foi implementado o mesmo projeto no MariaDB utilizando o aplicativo cliente de linha de comando mysql.
 
 #### Veja o [projeto do BD](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/blob/main/pset1/Projeto).
 #### Veja os [Scripts MariaDB](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/tree/main/pset1/Scripts%20MariaDB).
+
+## Trabalho 2: Projeto Integrado - PostgresSQL via PSQL
+
+Nesse projeto integrado entre as disciplinas de Banco de Dados I, UX e WEB foi desenvolvido um banco de dados para uma plataforma de banco de talentos chamada 'somosfortes' para a empresa Fortes Engenharia. O trabalho inclui o Projeto Conceitual feito no brModelo, o Projeto Lógico desenvolvido no SQL Power Architect e o SCRIPT para criação do BD utilizando o SGBD PostgreSQL com a ferramenta cliente PSQL.
+
+#### Veja o [Projeto Integrado](https://github.com/GabrielmPaulino/uvv_bd1_cc1n/tree/main/Projeto%20Integrado)
 
 ## Contribuindo
 Se você é estudante da disciplina e deseja contribuir com seus trabalhos, fique à vontade para fazer um fork deste repositório e enviar um pull request com suas adições. Certifique-se de seguir as melhores práticas de nomenclatura de pastas e arquivos, bem como de fornecer uma descrição clara do seu trabalho no arquivo README.md.
