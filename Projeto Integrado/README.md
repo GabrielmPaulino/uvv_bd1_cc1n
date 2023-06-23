@@ -1,5 +1,6 @@
 ---
-# Projeto Integrado: Banco de Dados da plataforma de banco de talentos 'somosfortes' para a empresa Fortes Engenharia.
+# Projeto Integrado
+## Banco de Dados da plataforma de banco de talentos 'somosfortes' para a empresa Fortes Engenharia.
 ### Gabriel Manoeli Paulino, Pedro Amorim, Pedro Mello e Ramses Martins.                                      
 #### Professor(a): Abrantes Araújo.
 #### 23 de Junho de 2023
